@@ -1,3 +1,7 @@
+<p align="center"><a href="https://mncz.github.io"><img width="50%" alt="mncz" src="./assets/mncz.svg" /></a></p>
+
+<hr>
+
 ### Hi there 👋
 
 <!--
